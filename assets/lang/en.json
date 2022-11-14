@@ -1,0 +1,33 @@
+{
+ "welcome": "Welcome",
+ "settings": "Settings",
+ "logout": "Logout",
+ "homeAppBar": "Weather Forecast",
+ "language_header":"Language",
+ "english_language": "English",
+ "spanish_language": "Spanish",
+ "themes_header": "Themes",
+ "dark_theme": "Dark Theme",
+ "light_theme": "Light Theme",
+ "system_theme": "System Theme",
+
+ "login": "LOGIN",
+ "requestEmail": "Please enter email",
+ "requestPassword": "Please enter password",
+ "privacyPolicy1": "By clicking below button,",
+ "privacyPolicy2": "you agree with",
+ "privacyPolicy3": "our terms and conditions",
+ "privacyPolicy4": ", our privacy policy",
+ "privacyPolicy5": ".",
+ "SignInWithGoogle": "SignInWithGoogle",
+ "requestValidEmail": "Please enter valid email address",
+ "passwordLength": "Please enter password with at least 6 characters",
+ "getting_ready": "Getting Everything Ready...",
+ "search_location_title": "Search Weather by Location",
+ "search_location_hint": "Enter location you are interested in ?",
+ "get_weather": "Get Weather",
+
+
+ "create_account":" Create an account",
+ "select_birthdate": "Select Date of Birth"
+}
